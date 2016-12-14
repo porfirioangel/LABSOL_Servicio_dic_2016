@@ -1,0 +1,1 @@
+C:\xampp\htdocs\GESOL\app/views/administradors/show.blade.php

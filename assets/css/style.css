@@ -1,0 +1,295 @@
+h3{
+	color: #888888;
+}
+a{
+  text-decoration: none;
+}
+i{
+	font-size: 50px;
+}
+i:hover{
+  color: #df473e;
+}
+.p-footer{
+	color: #888888;
+}
+.menu-panel{
+	height: 150px;
+}
+
+.menu{
+	width: 100%
+}
+.nav{
+  padding-top: 3px;
+	font-size: 19px;
+}
+.navbar{
+	background:#222;
+  border: 0px;
+  height: 60px;
+}
+.navbar-brand{
+	font-size: 20px;
+}
+
+.navbar-nav li:hover > .down-menu {
+  display: block;
+  z-index: 200;
+  position: absolute;
+
+}
+  .down-menu{
+    background:#222;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-top:5px;
+    width: 200px;
+  }
+  .down-menu li a{
+    color: #888;
+    font-size: 17px;
+    margin: 2px;
+    margin-top: 5px;
+    padding: 2px;
+    text-decoration:none;
+  }
+  .down-menu li:hover{
+    background:#666;
+  }
+  .down-menu li a{
+  color:#aaa;
+  }
+  .down-menu li a:hover{
+  color:#fff;
+  }
+.navbar-nav li .down-menu{
+  display:none;
+}
+
+
+/* =====================banner================================*/
+
+.banner{
+	margin: 0 auto;
+	margin-top:20px;
+	padding: 0 auto;
+	height: 90%;
+
+}
+
+.img-banner{
+  height: 25px;
+  width: 120px;
+}
+
+/* =====================slide================================*/
+
+
+.carousel {
+  height: 100%;
+  margin-bottom:0px;
+  margin-right: 10px;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 100%;
+  background-color: #fff;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 100%;
+}
+.carousel-inner > .item > a img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 100%;
+}
+
+.img-slide{
+  height: 100%;
+  width: 50%;
+}
+.text-slide{
+  font-size: 40px;
+  color:#ddd;
+}
+.video-bg p{
+	font-size: 40px;
+	padding: 120px;
+	color: #ddd;
+
+}
+.footer{
+	background: #222;
+	color: #888;
+}
+.footer h1{
+	color: #fff;
+
+}
+.part-2 a{
+	list-style: none;
+	text-decoration: none;
+	color: #fff;
+	margin-right: 10px;
+}
+
+.cert-slide{
+  background-image: url(/assets/img/slide/folleto.jpg);
+  background-size: 100% 100%;
+}
+.slider-item-1{
+  background: #444;
+}
+/*================ Clases para objetos comunes ============ */
+
+.margen{
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.promo{
+font-family: 'Francois One', sans-serif;
+font-size: 35px;
+
+}
+.promo2{
+  font-family: 'Righteous', cursive;
+	font-size: 22px;
+}
+
+.img{
+	height:300px;
+	width:400px;
+}
+.img-post{
+	height:200px;
+	width: 100%;
+}
+.img-top{
+  margin-top: 30px;
+}
+
+/* PROJECTS */
+.project-people,
+.project-actions {
+  text-align: right;
+  vertical-align: middle;
+}
+dd.project-people {
+  text-align: left;
+  margin-top: 5px;
+}
+.project-people img {
+  width: 52px;
+  height: 52px;
+}
+.project-title a {
+  font-size: 14px;
+  color: #676a6c;
+  font-weight: 600;
+}
+.project-list table tr td {
+  border-top: none;
+  border-bottom: 1px solid #e7eaec;
+  padding: 15px 10px;
+  vertical-align: middle;
+}
+.project-manager .tag-list li a {
+  font-size: 10px;
+  background-color: white;
+  padding: 5px 12px;
+  color: inherit;
+  border-radius: 2px;
+  border: 1px solid #e7eaec;
+  margin-right: 5px;
+  margin-top: 5px;
+  display: block;
+}
+.project-files li a {
+  font-size: 11px;
+  color: #676a6c;
+  margin-left: 10px;
+  line-height: 22px;
+}
+/*================ Cprogress-bar ============ */
+.progress-bar {
+  background-color: #1ab394;
+}
+.progress-small,
+.progress-small .progress-bar {
+  height: 10px;
+}
+.progress-small,
+.progress-mini {
+  margin-top: 5px;
+}
+.progress-mini,
+.progress-mini .progress-bar {
+  height: 5px;
+  margin-bottom: 0px;
+}
+.progress-bar-navy-light {
+  background-color: #3dc7ab;
+}
+.progress-bar-success {
+  background-color: #1c84c6;
+}
+.progress-bar-info {
+  background-color: #23c6c8;
+}
+.progress-bar-warning {
+  background-color: #f8ac59;
+}
+.progress-bar-danger {
+  background-color: #ed5565;
+}
+/* GALLERY */
+.gallery > .row > div {
+  margin-bottom: 15px;
+}
+.fancybox img {
+  margin-bottom: 5px;
+  /* Only for demo */
+  width: 24%;
+}
+@media (max-width:1200px) {
+
+.nav{
+  font-size: 16px;
+}
+@media (max-width:1000px) {
+  .phone1{
+    display: none !important;
+  }
+  .img-banner{
+  height: 25px;
+  width: 75px;
+}
+
+}
+
+@media (max-width:780px) {
+  .phone{
+    display: none !important;
+  }
+
+  .banner{
+  margin: 0 auto;
+  margin-top:20px;
+  padding: 0 auto;
+  height: 60%;
+
+}
+

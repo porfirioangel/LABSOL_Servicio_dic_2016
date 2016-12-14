@@ -1,0 +1,1 @@
+C:\xampp\htdocs\GESOL\app/views/actividads/index.blade.php

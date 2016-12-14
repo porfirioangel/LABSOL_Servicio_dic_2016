@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html;charset=UTF-8" http-equiv="Content-Type" />
+    <title>funciones</title>
+    <link href="estilos.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <p><!--[if gte mso 9]><xml>
+ <w:WordDocument>  <w:View>Normal</w:View>  <w:Zoom>0</w:Zoom>  <w:TrackMoves/>  <w:TrackFormatting/>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:DoNotPromoteQF/>  <w:LidThemeOther>ES-MX</w:LidThemeOther>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>   <w:SplitPgBreakAndParaMark/>   <w:DontVertAlignCellWithSp/>   <w:DontBreakConstrainedForcedTables/>   <w:DontVertAlignInTxbx/>   <w:Word11KerningPairs/>   <w:CachedColBalance/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>  <m:mathPr>   <m:mathFont m:val="Cambria Math"/>   <m:brkBin m:val="before"/>   <m:brkBinSub m:val="&#45;-"/>   <m:smallFrac m:val="off"/>   <m:dispDef/>   <m:lMargin m:val="0"/>   <m:rMargin m:val="0"/>   <m:defJc m:val="centerGroup"/>   <m:wrapIndent m:val="1440"/>   <m:intLim m:val="subSup"/>   <m:naryLim m:val="undOvr"/>  </m:mathPr></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"  DefSemiHidden="true" DefQFormat="false" DefPriority="99"  LatentStyleCount="267">  <w:LsdException Locked="false" Priority="0" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>  <w:LsdException Locked="false" Priority="9" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>  <w:LsdException Locked="false" Priority="0" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Title"/>  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>  <w:LsdException Locked="false" Priority="0" Name="Body Text"/>  <w:LsdException Locked="false" Priority="11" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>  <w:LsdException Locked="false" Priority="22" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>  <w:LsdException Locked="false" Priority="20" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>  <w:LsdException Locked="false" Priority="59" SemiHidden="false"   UnhideWhenUsed="false" Name="Table Grid"/>  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>  <w:LsdException Locked="false" Priority="1" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 1"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>  <w:LsdException Locked="false" Priority="34" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>  <w:LsdException Locked="false" Priority="29" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>  <w:LsdException Locked="false" Priority="30" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 1"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 2"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 2"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 3"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 3"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 4"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 4"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 5"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 5"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>  <w:LsdException Locked="false" Priority="60" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>  <w:LsdException Locked="false" Priority="61" SemiHidden="false"   UnhideWhenUsed="false" Name="Light List Accent 6"/>  <w:LsdException Locked="false" Priority="62" SemiHidden="false"   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>  <w:LsdException Locked="false" Priority="63" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>  <w:LsdException Locked="false" Priority="64" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>  <w:LsdException Locked="false" Priority="65" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>  <w:LsdException Locked="false" Priority="66" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>  <w:LsdException Locked="false" Priority="67" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>  <w:LsdException Locked="false" Priority="68" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>  <w:LsdException Locked="false" Priority="69" SemiHidden="false"   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>  <w:LsdException Locked="false" Priority="70" SemiHidden="false"   UnhideWhenUsed="false" Name="Dark List Accent 6"/>  <w:LsdException Locked="false" Priority="71" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>  <w:LsdException Locked="false" Priority="72" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>  <w:LsdException Locked="false" Priority="73" SemiHidden="false"   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>  <w:LsdException Locked="false" Priority="19" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>  <w:LsdException Locked="false" Priority="21" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>  <w:LsdException Locked="false" Priority="31" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>  <w:LsdException Locked="false" Priority="32" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>  <w:LsdException Locked="false" Priority="33" SemiHidden="false"   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/> </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style> /* Style Definitions */ table.MsoNormalTable	{mso-style-name:"Tabla normal";	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-priority:99;	mso-style-qformat:yes;	mso-style-parent:"";	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"Times New Roman","serif";}</style><![endif]-->
+    </p>
+    <h1 align="center" class="MsoTitle" style="text-align:justify"><br />
+      <b><span lang="ES" style="font-size:
+12.0pt"><span style="mso-tab-count:1"></span></span></b></h1>
+    <h1 align="center" class="MsoTitle" style="text-align:justify"><a href="file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web/funciones.html"><b><span
+            style="font-size:18.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#467F0D;mso-fareast-language:ES-MX"><i></i></span></b></a><a
+        href="file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web/Identidad.html"><br />
+      </a></h1>
+    <p align="center" class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+line-height:normal;mso-outline-level:2"><b><span style="font-size:18.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#467F0D;mso-fareast-language:ES-MX"><i><a
+              href="file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web/Identidad.html"> </a></i></span></b><a
+        href="file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web/Identidad.html"><b><span
+            style="font-size:18.0pt;
+font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;color:#467F0D;mso-fareast-language:ES-MX"><i></i></span></b></a><b><i><a
+            href="file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web/Identidad.html">IDENTIDAD</a> 
+          <a href="file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web/articulo.html">ARTÍCULO</a></i>
+        <a href="file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web/funciones.html">FUNCIONES</a>
+        <a href="file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web/tabla.html">GALERÍA</a></b></p>
+    <h1 align="center" class="MsoTitle" style="text-align:justify"><b><span lang="ES"
+          style="font-size:
+12.0pt"><span style="mso-tab-count:1">            </span></span></b><span lang="ES"
+        style="font-size:12.0pt">Función del Psicólogo Organizacional <br />
+      </span></h1>
+    <p class="MsoTitle" style="text-align:justify"><span lang="ES" style="font-size:12.0pt">   
+                Actualmente las industrias se han convertido en la principal
+        fuente de trabajo por lo cual este sector cada día se expande mas con el
+        fin de seguir generando mas empleos y las personas puedan elegir un
+        trabajo adecuado a sus necesidades. Cada persona tiene el derecho de
+        elegir cualquier trabajo de acuerdo a<span style="mso-spacerun:yes">  </span>sus
+intereses,
+        aptitudes y conocimientos aunque sea la empresa u organización la que
+        decida si se queda o no con el puesto.</span></p>
+    <p class="MsoTitle" style="text-align:justify"><span lang="ES" style="font-size:
+12.0pt"><span style="mso-tab-count:1">            </span>De aquí surge la
+        necesidad de la industria de ir perfeccionando las técnicas de
+        reclutamiento y selección de personal, poco a poco se fueron modificando
+        hasta que se llego a todo un proceso en donde van implicadas diversas
+        técnicas. <br />
+      </span></p>
+    <p class="MsoTitle" style="text-align:justify"><span lang="ES" style="font-size:
+12.0pt"><span style="mso-tab-count:1">            </span>La elección óptima de
+        un candidato adecuado para el puesto adecuado llego a ser un tanto
+        complicado ya que en ocasiones el candidato llegaba a alterar la
+        información que se le pedía por lo cual se comenzó a hacer el uso de
+        técnicas como la observación, cuestionarios evaluación de conocimientos
+        etc. </span></p>
+    <p class="MsoTitle" style="text-align:justify"><span lang="ES" style="font-size:
+12.0pt"><span style="mso-tab-count:1">            </span>Hoy en día las
+        empresas pueden elegir y seleccionar al personal adecuado con la ayuda
+        de expertos uno de ellos es el psicólogo ya que este tiene la capacidad
+        de observar la conducta, realizar e interpretar instrumentos
+        psicométricos para conocer sobre la personalidad del candidato y en
+        síntesis puede realizar el perfil laboral de cierta persona avalándose
+        de una batería psicológica de acuerdo a las exigencias de cada
+        organización.</span></p>
+    <p class="MsoTitle" style="text-align:justify"><span lang="ES" style="font-size:
+12.0pt"> </span></p>
+    <p class="MsoTitle" style="text-align:justify"><span lang="ES" style="font-size:
+12.0pt"><span style="mso-tab-count:1">            </span><span style="mso-spacerun:yes"> </span>El
+        seleccionar el personal adecuado ayuda a la mejora de la empresa por lo
+        cual la intervención del psicólogo en el proceso de selección de
+        personal es importante. Por ello el siguiente análisis es dedicado a la
+        participación del psicólogo organizacional dentro del proceso de
+        selección, utilizando como herramienta base la aplicación de pruebas
+        psicológicas.<span style="mso-spacerun:yes">    </span></span></p>
+    <p class="MsoTitle"><b><span lang="ES" style="font-size:12.0pt"> <br />
+        </span></b></p>
+    <h1 align="center" class="MsoTitle"><b><span lang="ES" style="font-size:12.0pt">OBJETIVOS</span></b></h1>
+    <p class="MsoTitle" style="margin-left:36.0pt;text-align:justify;text-indent:
+-18.0pt;mso-list:l1 level1 lfo1"><span lang="ES" style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-bidi-font-weight:bold"><span style="mso-list:
+Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;"></span></span></span><span
+        lang="ES" style="font-size:12.0pt;
+mso-bidi-font-weight:bold">Analizar la intervención del psicólogo organizacional
+        dentro del proceso de selección de personal de una organización.<b></b></span><b><span
+          lang="ES" style="font-size:12.0pt"></span></b><span lang="ES" style="font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-bidi-font-weight:bold"><span style="mso-list:
+Ignore"><span style="font:7.0pt &quot;Times New Roman&quot;"> </span></span></span><span
+        lang="ES" style="font-size:12.0pt;
+mso-bidi-font-weight:bold"><br />
+      </span></p>
+    <p class="MsoTitle" style="margin-left:36.0pt;text-align:justify;text-indent:
+-18.0pt;mso-list:l1 level1 lfo1"><span lang="ES" style="font-size:12.0pt;
+mso-bidi-font-weight:bold">Identificar<span style="mso-spacerun:yes">  </span>las
+        técnicas que utiliza el psicólogo para el desarrollo del proceso de
+        selección.<b></b></span><b></b><span lang="ES" style="font-size:12.0pt;
+mso-bidi-font-weight:bold"><br />
+      </span></p>
+    <p class="MsoTitle" style="margin-left:36.0pt;text-align:justify;text-indent:
+-18.0pt;mso-list:l1 level1 lfo1"><span lang="ES" style="font-size:12.0pt;
+mso-bidi-font-weight:bold">Describir la importancia de la técnica: aplicación de
+        pruebas psicológicas.</span></p>
+    <p class="MsoListParagraph"><span lang="ES" style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+mso-bidi-font-weight:bold"> </span></p>
+    <p align="center" class="MsoTitle"><b><span lang="ES" style="font-size:12.0pt">PREGUNTAS
+          GUIA</span></b></p>
+    <p class="MsoTitle" style="margin-left:36.0pt;text-align:justify"><span lang="ES"
+        style="font-size:12.0pt;mso-fareast-font-family:Arial;mso-bidi-font-weight:
+bold"> <span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">   
+            </span></span></span><span lang="ES" style="font-size:12.0pt;mso-bidi-font-weight:bold">¿Cuál
+        es la importancia del psicólogo organizacional dentro del proceso de
+        selección de personal? <br />
+      </span></p>
+    <p class="MsoTitle" style="margin-left:36.0pt;text-align:justify;text-indent:
+-18.0pt;mso-list:l0 level1 lfo2"><span lang="ES" style="font-size:12.0pt;mso-fareast-font-family:Arial;mso-bidi-font-weight:
+bold"><span style="mso-list:Ignore">       2.<span style="font:7.0pt &quot;Times New Roman&quot;">   
+            </span></span></span><span lang="ES" style="font-size:12.0pt;
+mso-bidi-font-weight:bold">¿Qué técnicas utiliza el psicólogo para el desarrollo
+        del proceso de selección de personal?</span></p>
+    <p class="MsoTitle" style="margin-left:36.0pt;text-align:justify;text-indent:
+-18.0pt;mso-list:l0 level1 lfo2"><span lang="ES" style="font-size:12.0pt;mso-fareast-font-family:Arial;mso-bidi-font-weight:
+bold"><span style="mso-list:Ignore">       3.<span style="font:7.0pt &quot;Times New Roman&quot;">   
+            </span></span></span><span lang="ES" style="font-size:12.0pt;
+mso-bidi-font-weight:bold"><span style="mso-spacerun:yes"> </span>¿Por qué no se
+        debe omitir la aplicación de pruebas en el proceso de selección de
+        personal?</span></p>
+    <b><span lang="ES" style="font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:ES;mso-fareast-language:ES;mso-bidi-language:AR-SA"><br
+          clear="all" style="page-break-before:always" />
+      </span></b>
+    <p align="center" class="MsoTitle"><b><span lang="ES" style="font-size:12.0pt">LA
+          INTERVENCION DEL PSICOLOGO </span></b></p>
+    <p align="center" class="MsoNormal" style="text-align:center"><b><span lang="ES"
+          style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">DENTRO
+          DEL PROCESO DE SELECCIÓN DE PERSONAL</span></b></p>
+    <p align="center" class="MsoNormal" style="text-align:center"><span lang="ES"
+        style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"> </span></p>
+    <p class="MsoBodyText" style="line-height:normal"><span lang="ES" style="font-size:
+12.0pt"><span style="mso-tab-count:1">            </span></span></p>
+    <p class="MsoBodyText" style="text-indent:35.4pt;line-height:normal"><span lang="ES"
+        style="font-size:12.0pt">En la actualidad las sociedades modernas se han
+        adaptado a la implementación de nuevas industrias y por ende nuevas
+        formas de trabajo, buscan a profesionales que se encarguen del recurso
+        humano para obtener óptimos resultados de su organización con ello se
+        destaca el papel del psicólogo dentro de esta, interviniendo en
+        diferentes aspectos de acuerdo con el área que este laborando ya que en
+        cada una de ellas se resuelven diferentes problemáticas.</span></p>
+    <p class="MsoNormal" style="text-align:justify"><span lang="ES" style="font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;"> </span></p>
+    <p class="MsoNormal" style="text-align:justify"><span lang="ES" style="font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;"><span style="mso-tab-count:1">           
+          </span>El psicólogo cada día se interesa por realizar investigaciones
+        para la compañía u organización donde labora, indaga sobre los procesos
+        individuales y de grupo mas que de la aplicación inmediata de técnicas
+        ya desarrolladas de la ciencia social. Esta investigación consta de
+        identificar cual es el problema posteriormente se realiza un diagnostico
+        para hacer un plan de intervención en donde el psicólogo propone cierto
+        tipo de alternativas para darle solución a la problemática que tiene la
+        empresa. Por ello Clay (1989), afirma que el psicólogo organizacional
+        tiene la habilidad y el entrenamiento adecuado para afrontar los
+        problemas que con frecuencia se presentan en las organizaciones. </span></p>
+    <p class="MsoNormal" style="text-align:justify"><span lang="ES" style="font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;"> </span></p>
+    <p class="MsoBodyText" style="line-height:normal"><span lang="ES" style="font-size:
+12.0pt"><span style="mso-tab-count:1">            </span>El primer psicólogo
+        industrial fue Walter Dill Scott quien aceptó escribir artículos para
+        una agencia de publicidad acerca de cómo se podía aplicar la psicología
+        dentro de la publicidad Clay (1989), posteriormente realizó diferentes
+        trabajos como profesor de psicología aplicada, fue Director del
+        departamento de Investigación de Ventas cuya investigación fue pagada
+        por varias empresas privadas y fundo su propia organización consultiva
+        de personal.</span></p>
+    <p class="MsoNormal" style="text-align:justify"><span lang="ES" style="font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;"> </span></p>
+    <p class="MsoNormal" style="text-align:justify"><span lang="ES" style="font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;"><span style="mso-tab-count:1">           
+          </span>En un principio el psicólogo se preocupaba por mejorar las
+        pruebas y los procedimientos de entrevista para elegir a los
+        trabajadores mas capaces y tener los métodos óptimos para su
+        entrenamiento dentro del trabajo pero después del estudio de Howthorne
+        surgió poner énfasis en los problemas que se presentaban dentro del
+        grupo de trabajo, dichos estudios ampliaron el campo del psicólogo
+        industrial por lo cual se empezó a incluir la psicología de la
+        personalidad y la sociología. </span></p>
+    <p class="MsoNormal" style="text-align:justify"><span lang="ES" style="font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;"> </span></p>
+  </body>
+</html>

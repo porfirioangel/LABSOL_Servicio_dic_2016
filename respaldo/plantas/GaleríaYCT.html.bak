@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html;charset=UTF-8" http-equiv="Content-Type" />
+    <title>GaleríaYCT</title>
+    <style type="text/css">
+#zan {
+  background-image: url("imagenes/zan4.jpg");
+  width: 200px;
+  height: 180px;
+}
+#zan:hover {
+  background-image: url("imagenes/zan6.jpg");
+}
+#zan:hover {
+  width: 0px;
+}
+#zan:hover {
+}
+#zan:hover {
+  width: 200px;
+}
+#zan:hover {
+  height: 180px;
+}
+#zanahoriaa {
+  background-image: url("imagenes/1.jpg");
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 180px;
+  background-color: #ffcc66;
+}
+#zanahoriaa:hover {
+  background-image: url("imagenes/zan5.jpg");
+}
+td:hover {
+  font-family: "AR BONNIE";
+}
+td:hover {
+  font-family: "AR DELANEY";
+}
+td:hover {
+  text-decoration: underline;
+}
+td:hover {
+}
+td:hover {
+  text-decoration: none;
+}
+td:hover {
+  text-align: justify;
+}
+td:hover {
+}
+td:hover {
+  color: #ff9900;
+}
+</style></head>
+  <body>
+    <h1 align="center"><b style="mso-bidi-font-weight:normal"><span lang="ES" style="font-size:12.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;color:#333333;mso-ansi-language:ES;mso-fareast-language:ES-MX"><a
+            href="file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web%20YCT/Historia.html">Historia</a>
+          <a href="Aporte.html">Aporte</a> <a href="usos.html">Usos </a><a href="Galer%C3%ADaYCT.html">Galería
+            </a><br /></span></b></h1>
+    <p><br />
+    </p>
+    <p></p>
+    <table border="1" style="width: 100%">
+      <tbody>
+        <tr align="center">
+          <td colspan="3" rowspan="1">
+            <h1>Galería</h1>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">
+            <div align="center"><b>Beneficios de la zanahoria<br />
+              </b></div>
+            <table border="0" style="width: 100%;">
+              <tbody>
+                <tr>
+                  <td id="zanahoriaa"><br />
+                  </td>
+                  <td><a style="clear: left; margin-right: 1em; margin-bottom: 1em; float: left;"
+                      href="http://1.bp.blogspot.com/-dmut3Hjk3jQ/T7KgU7nhiyI/AAAAAAAAAPo/KV-1L0u-X9A/s1600/Ver%2Blos%2Bbeneficios%2Bde%2Bla%2Bzanahoria%2Bpara%2Bla%2Bsalud.jpg"></a>Las
+                    zanahorias son vegetales muy conocidos por todos y sus
+                    virtudes medicinales se pueden aprovechar de diversas
+                    formas, ya sea crudas, cocidas, en zumos o licuados. Como es
+                    una hortaliza que está al alcance de tu mano, es interesante
+                    que conozcas por lo menos 5 beneficios y usos medicinales
+                    que tiene la zanahoria para mejorar la salud.</td>
+                </tr>
+              </tbody>
+            </table>
+            <br />
+          </td>
+          <td colspan="2" rowspan="1">
+            <div align="center"><b>5 Beneficios para la salud<br />
+              </b></div>
+            <table border="0" style="width: 100%;">
+              <tbody>
+                <tr>
+                  <td><img src="imagenes/zan.png" alt="" /><br />
+                  </td>
+                  <td>Una de las propiedades más importantes que tiene la
+                    zanahoria es proteger la visión. Estos vegetales poseen un
+                    alto porcentaje de beta carotenos, pigmentos precursores de
+                    la vitamina A; que previene la aparición de cataratas. Por
+                    otra parte, el consumo de zanahoria, puede ser muy
+                    importante para tratar la ceguera nocturna y la fotofobia.</td>
+                </tr>
+              </tbody>
+            </table>
+            <br />
+          </td>
+        </tr>
+        <tr>
+          <td colspan="1" rowspan="1">
+            <div align="center"><b>Cultivo<br />
+              </b></div>
+            <table border="0" style="width: 100%;">
+              <tbody>
+                <tr>
+                  <td><img src="imagenes/zan2.png" alt="" /><br />
+                  </td>
+                  <td>
+                    <div class="divimg"><a class="lupita"></a></div>
+                    Hay varios <strong>tipos de zanahorias</strong>, ya sea por
+                    su longitud o por su forma. Las hay largas, intermedias,
+                    cortas, redondeadas, cilindráis con un extremo achatado y
+                    cónicas. Los tres principales tipos de zanahorias son: las
+                    grandes para el consumo en crudo y guisadas, las alargadas y
+                    finas que son para envasar y las ultimas son las manojillo y
+                    dulces que son para el consumo fresco.<br />
+                    <br />
+                    <a style="color: rgb(0, 51, 153);" href="http://hogar.uncomo.com/articulo/como-cultivar-zanahorias-6604.html#ixzz2v71c9j6X"></a></td>
+                </tr>
+              </tbody>
+            </table>
+            <br />
+          </td>
+          <td>
+            <div align="center"><b>Sembrar<br />
+              </b></div>
+            <table border="0" style="width: 100%;">
+              <tbody>
+                <tr>
+                  <td id="zan"><br />
+                  </td>
+                  <td>Si quieres <strong>sembrar zanahorias</strong> en una
+                    cajonera o vivero, si dispones de una cajonera caliente,
+                    siembre las zanahorias redondas en Enero, en cambio, si la
+                    cajonera es fría sembrarás siembra a mitad de Febrero.
+                    Tienes que tener una profundidad de unos 23 cm y pondrás las
+                    semillas muy esparcidas en hileras de unos 15 cm de
+                    separación. <br />
+                    <br />
+                    <a style="color: rgb(0, 51, 153);" href="http://hogar.uncomo.com/articulo/como-cultivar-zanahorias-6604.html#ixzz2v71rlZwG"></a></td>
+                </tr>
+              </tbody>
+            </table>
+            <br />
+          </td>
+          <td><br />
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p><br />
+    </p>
+    <p><br />
+    </p>
+    <p></p>
+  </body>
+</html>

@@ -1,0 +1,405 @@
+a {
+  font-family: "AR BLANCA";
+  font-size: 20px;
+  text-decoration: none;
+  color: #663366;
+  text-shadow: 9px 6px 6px #333399, 3px 0px 0px #cc33cc;
+}
+span {
+  font-family: "Verdana", "sans-serif", "AR JULIAN";
+  font-size: 13px;
+  color: #993399;
+}
+body {
+  background-color: #9999ff;
+}
+img {
+  border-top-color: #000066;
+  border-right-color: #000066;
+  border-bottom-color: #000066;
+  border-left-color: #000066;
+  border-top-width: 4px;
+  border-right-width: 4px;
+  border-bottom-width: 4px;
+  border-left-width: 4px;
+  border-top-style: outset;
+  border-right-style: outset;
+  border-bottom-style: outset;
+  border-left-style: outset;
+}
+font {
+  font-family: "AR BONNIE", "AR BONNIE", "AR CENA";
+  font-style: oblique;
+  letter-spacing: 2px;
+  color: #000011;
+  font-weight: bold;
+}
+b {
+  color: #000066;
+  font-weight: bold;
+  font-family: "AR ESSENCE";
+  -epub-text-transform: uppercase;
+  text-transform: uppercase;
+}
+td {
+  background-image: url("imagenes/el-poder-de-la-comunicacion.jpg");
+}
+#verbal {
+  background-image: url("imagenes/el-poder-de-la-comunicacion.jpg"), url("imagenes/Funciones-de-la-comunicacion.jpg");
+}
+#com:hover {
+  background-image: url("imagenes/radio.4.jpg");
+}
+#hola {
+  background-image: url("imagenes/el-poder-de-la-comunicacion.jpg"), url("imagenes/6.jpg");
+  background-repeat: no-repeat;
+  width: 201px;
+  height: 150px;
+}
+#hola:hover {
+  background-image: url("imagenes/9.jpg");
+}
+#j {
+  background-image: url("imagenes/images.jpg"), url("imagenes/2.jpg");
+  width: 200px;
+  height: 150px;
+}
+#j:hover {
+  background-image: url("imagenes/4.jpg");
+}
+#j:hover {
+  width: 0px;
+}
+#j:hover {
+  width: 1px;
+}
+#j:hover {
+  width: 2px;
+}
+#j:hover {
+  width: 3px;
+}
+#j:hover {
+  width: 4px;
+}
+#j:hover {
+  width: 5px;
+}
+#j:hover {
+  width: 6px;
+}
+#j:hover {
+  width: 7px;
+}
+#j:hover {
+  width: 8px;
+}
+#j:hover {
+  width: 9px;
+}
+#j:hover {
+  width: 10px;
+}
+#j:hover {
+  width: 11px;
+}
+#j:hover {
+  width: 12px;
+}
+#j:hover {
+  width: 13px;
+}
+#j:hover {
+  width: 14px;
+}
+#j:hover {
+  width: 15px;
+}
+#j:hover {
+  width: 16px;
+}
+#j:hover {
+  width: 17px;
+}
+#j:hover {
+  width: 18px;
+}
+#j:hover {
+  width: 19px;
+}
+#j:hover {
+  width: 20px;
+}
+#j:hover {
+  width: 21px;
+}
+#j:hover {
+  width: 22px;
+}
+#j:hover {
+  width: 23px;
+}
+#j:hover {
+  width: 24px;
+}
+#j:hover {
+  width: 25px;
+}
+#j:hover {
+  width: 26px;
+}
+#j:hover {
+  width: 27px;
+}
+#j:hover {
+  width: 28px;
+}
+#j:hover {
+  width: 29px;
+}
+#j:hover {
+  width: 30px;
+}
+#j:hover {
+  width: 31px;
+}
+#j:hover {
+  width: 32px;
+}
+#j:hover {
+  width: 33px;
+}
+#j:hover {
+  width: 34px;
+}
+#j:hover {
+  width: 35px;
+}
+#j:hover {
+  width: 36px;
+}
+#j:hover {
+  width: 37px;
+}
+#j:hover {
+  width: 38px;
+}
+#j:hover {
+  width: 39px;
+}
+#j:hover {
+  width: 40px;
+}
+#j:hover {
+  width: 41px;
+}
+#j:hover {
+  width: 42px;
+}
+#j:hover {
+  width: 43px;
+}
+#j:hover {
+  width: 44px;
+}
+#j:hover {
+  width: 45px;
+}
+#j:hover {
+  height: 0px;
+}
+#j:hover {
+  height: 1px;
+}
+#j:hover {
+  height: 2px;
+}
+#j:hover {
+  height: 3px;
+}
+#j:hover {
+  height: 4px;
+}
+#j:hover {
+  height: 5px;
+}
+#j:hover {
+  height: 6px;
+}
+#j:hover {
+  height: 7px;
+}
+#j:hover {
+  height: 8px;
+}
+#j:hover {
+  height: 9px;
+}
+#j:hover {
+  height: 10px;
+}
+#j:hover {
+  height: 11px;
+}
+#j:hover {
+  width: 4px;
+}
+#j:hover {
+  width: 2px;
+}
+#j:hover {
+  width: 20px;
+}
+#j:hover {
+  width: 200px;
+}
+#j:hover {
+  height: 1px;
+}
+#j:hover {
+  height: 1px;
+}
+#j:hover {
+  height: 15px;
+}
+#j:hover {
+  height: 150px;
+}
+#j:hover {
+  background-image: url("imagenes/6.jpg");
+}
+#j:hover {
+  width: 0px;
+}
+#j:hover {
+}
+#j:hover {
+}
+#j:hover {
+}
+#o:hover {
+  width: 0px;
+}
+#o:hover {
+}
+#leyendo {
+  background-image: url("file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web/imagenes/leyendo.jpg");
+  height: 373px;
+  width: 700px;
+}
+#leyendo:hover {
+  background-image: url("imagenes/leyendo.jpg");
+}
+#leyendo:hover {
+  width: 0px;
+}
+#leyendo:hover {
+  height: 0px;
+}
+#leyendo:hover {
+  width: 1px;
+}
+#leyendo:hover {
+  width: 18px;
+}
+#leyendo:hover {
+  width: 180px;
+}
+#leyendo:hover {
+  width: 18px;
+}
+#leyendo:hover {
+  width: 1px;
+}
+#leyendo:hover {
+  width: 2px;
+}
+#leyendo:hover {
+  width: 20px;
+}
+#leyendo:hover {
+  width: 200px;
+}
+#leyendo:hover {
+  height: 1px;
+}
+#leyendo:hover {
+  height: 18px;
+}
+#leyendo:hover {
+  height: 180px;
+}
+#leyendo:hover {
+  width: 20px;
+}
+#leyendo:hover {
+  width: 2px;
+}
+#leyendo:hover {
+  width: 1px;
+}
+#leyendo:hover {
+  width: 15px;
+}
+#leyendo:hover {
+  width: 150px;
+}
+#leyendo:hover {
+  height: 18px;
+}
+#leyendo:hover {
+  height: 1px;
+}
+#leyendo:hover {
+  height: 13px;
+}
+#leyendo:hover {
+  height: 130px;
+}
+#leyendo:hover {
+  width: 0px;
+}
+#leyendo:hover {
+  width: 1px;
+}
+#leyendo:hover {
+  width: 15px;
+}
+#leyendo:hover {
+  width: 1px;
+}
+#leyendo:hover {
+  width: 1px;
+}
+#leyendo:hover {
+  width: 10px;
+}
+#leyendo:hover {
+  width: 100px;
+}
+#leyendo:hover {
+}
+#leyendo:hover {
+}
+#imagen {
+  background-image: url("imagenes/2.jpg");
+}
+#contenedor {
+  background-color: rgba(255, 255, 255, 0.71);
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+#encabezado {
+  background-color: #ccffff;
+}
+#contenido {
+  background-color: #99ff99;
+}
+#menu {
+  background-color: rgba(255, 255, 153, 0.71);
+}
+#emenu {
+  float: left;
+}

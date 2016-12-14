@@ -1,0 +1,1 @@
+C:\xampp\htdocs\GESOL\app/views/perfils/show.blade.php

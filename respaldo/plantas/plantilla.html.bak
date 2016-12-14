@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+    <title>plantilla</title>
+    <link type="text/css" rel="stylesheet" href="file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web%20YCT/estilos.css" />
+  </head>
+  <body>
+    <div id="contenedor">
+      <div id="menu"><br />
+      </div>
+      <br />
+    </div>
+    <p id="contenido"><a href="aporte.html">Aporte            </a><a href="galeria.html">Galería </a>  
+        <a href="Usos.html">  Usos </a>       <a href="historia.html">Historia</a><br />
+    </p>
+  </body>
+</html>

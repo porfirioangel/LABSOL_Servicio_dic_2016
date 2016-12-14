@@ -1,0 +1,45 @@
+a {  
+  font-family: "AR HERMANN";  
+  font-size: 40px;  
+  text-decoration: none;  
+  background-color: #ff9900;  text-shadow: 34px 12px 38px #ffff66;  
+  color: #333300;
+}
+
+h1 {  
+  font-family: "AR CENA";  
+  font-weight: bold;  
+  text-align: center;  
+  color: #ff9900;
+}
+
+p {  
+  color: #cc6600;  
+  background-color: yellow;
+}
+
+body {  
+  background-color: #333300;
+}
+
+img {  
+  border-top-color: #ff9900;  
+  border-right-color: #ff9900;  
+  border-bottom-color: #ff9900;  
+  border-left-color: #ff9900;
+}
+
+div {  
+  background-color: #cc9933;  
+  margin-left: auto;  
+  margin-right: auto;  
+  background-image: url("file:///C:/Users/Diana/Documents/maestria.linea.dem/paginas%20web%20YCT/imagenes/zan4.jpg");  
+  width: 200px;  
+  height: 200px;
+}
+
+#pie {  
+  background-image: url("");  
+  background-color: #ffffcc;
+}
+

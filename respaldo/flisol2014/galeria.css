@@ -1,0 +1,188 @@
+ol,ul{
+	list-style: none;
+}
+h1,h2,h3,h4,h5,h6{
+	font-size: 100%;
+	font-weight: normal;
+}
+
+body{
+	background: #fff;
+	color: #aa3e03;
+	overflow: scroll;
+	margin: 0 auto;
+	max-width: 1000px;
+}
+a{
+	color: #333;
+	text-decoration: none;
+}
+.container{
+	position: relative;
+	text-align: center;
+}
+.container > #Hgaleria{
+	padding: 20px 30px 10px 20px; 
+	margin: 0 20px 10px 20px;
+	position: relative;
+	display: block;
+	text-shadow:1px 1px 1px rgba(0,0,0,0.2);
+	text-align: center;
+	
+}
+.container >#Hgaleria h1 span{
+	color: #c7957b;
+	text-shadow:0px 1px 1px rgba(255,255,255,0.8);
+}
+.container >#Hgaleria h1{
+	position: relative;
+	color: rgba(27,54,81,0.8);
+	padding: 0px 0px 5px 0px;
+}
+
+.container >#Hgaleria h2 , p.info{
+	color: #4a3124;
+	text-shadow:0px 1px 1px rgba(255,255,255,1) ;
+}
+
+
+.Ib-album{
+	width: 900px;
+	margin: 0 auto;
+}
+
+.Ib-album li{
+	float: left;
+	margin: 5px;
+	position: relative;
+}
+
+.Ib-album li > a, .Ib-album li> a img {
+	display: block;
+}
+.Ib-album li > a{
+	width: 150px;
+	height: 150px;
+	position: relative;
+	padding: 10px;
+	background:#E6E6E6;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-o-border-radius: 4px;
+}
+
+.Ib-album li > a span{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	top:10px;
+	text-align: center;
+	line-height: 150px;
+	color: rgba(27.54,81,0.6);
+	font-size:14px;
+	opacity: 0;
+	background: rgba(241,210,194);
+	background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,0.5) 0%, rgba(127,179,189,1)100%,);
+	background: -webkit-radial-gradient(radial, center center, 0px center center,100%,color-stop(0%,rgba(255,255,255,0.56)),color-stop(100%,rgba(241,210,194,1)));
+	background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,0.5) 0%, rgba(127,179,189,1)100%,);
+	background: -moz-radial-gradient(radial, center center, 0px center center,100%, color-stop(0%,rgba(255,255,255,0.56)),color-stop(100%,rgba(241,210,194,1)));
+	-webkit-transition:opacity 0.3s linear;
+	-moz-transition:opacity 0.3s linear;
+	transition:opacity 0.3s linear;
+}
+.Ib-album li > a:hover span{
+	opacity: 1;
+}
+.Ib-overlay{
+	width: 0px;
+	height: 0;
+	position: fixed;
+	overflow: hidden;
+	left: 0px;
+	top:0;
+	padding:0px;
+	z-index: 99;
+	text-align: center;
+	color: rgb(241,210,194);
+	background:black;
+	background: -moz-radial-gradien(center, ellipse cover, rgba(255,255,255,0.5) 0%, rgba(144,179,127,1)100%,);
+	background: -webkit-radial-gradient(radial, center center, 0px center center,100%, color-stop(0%,rgba(255,255,255,0.56)),color-stop(010%,rgba(241,210,194,1)));
+	background: -webkit-radial-gradien(center, ellipse cover, rgba(255,255,255,0.5) 0%, rgba(144,179,127,1)100%,);
+	background: -moz-radial-gradient(radial, center center, 0px center center,100%, color-stop(0%,rgba(255,255,255,0.56)),color-stop(010%,rgba(241,210,194,1)));
+	background: -webkit-radial-gradien(center, ellipse cover, rgba(255,255,255,0.5) 0%, rgba(144,179,127,1)100%,);
+}
+
+.Ib-ovelay #close{
+	position: relative;
+	margin-top: 100px;
+	padding-top: 100px;
+}
+.Ib-ovelay #Bt{
+	margin-top: -100px;
+	display: inline-block;
+}
+	
+}
+.Ib-overlay div h3, .Ib-overlay div p{
+	padding: 0px 2px;
+	width: 200px
+	height:60px;
+}
+.Ib-overlay div h3 {
+	font-size: 26px;
+	float: left;
+	text-align: right;
+	border-right: 1px solid rgba(27,54,81,04)
+}
+.Ib-overlay div h3 span{
+	display: block;
+	line-height: 6px;
+}
+.Ib-ovelay div p{
+	font-size: 14px;
+	text-align: left;
+	float: left;
+	width: 260px;
+}
+.Ib-ovelay .Ib-close{
+	color: white;
+}
+
+
+.Ib-ovelay img{
+	height: 80%;
+	max-height: 80%;
+	position: relative;
+	opacity: 0;
+	-webkit-transition:opacity 0.5s linear;
+	-moz-transition:opacity 0.5s linear;
+	-o-transition:opacity 0.5s linear;
+	transition:opacity 0.5s linear;
+}
+
+.Ib-overlay:target{
+	width: auto;
+	height: auto;
+	bottom: 0px;
+	right: 0px;
+	padding: 80px 100px 120px 100px;
+}
+.Ib-overlay:target img, .Ib-overlay:target a.Ib-close{
+	opacity: 2;
+}
+
+
+@media (max-width: 580px){
+	#contenedor nav ul{
+		
+	}
+
+#contenedor nav ul li{
+display: block;
+	
+}
+#conttenedor nav ul li a {
+	font-size: 11px;
+}
+
+}

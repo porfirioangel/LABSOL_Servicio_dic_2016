@@ -1,0 +1,102 @@
+[05-Oct-2015 13:29:54 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 535
+[05-Oct-2015 13:29:54 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 535
+[05-Oct-2015 13:29:54 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 537
+[05-Oct-2015 13:29:54 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 542
+[05-Oct-2015 13:29:54 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 542
+[05-Oct-2015 13:29:54 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 545
+[05-Oct-2015 13:29:54 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 563
+[05-Oct-2015 13:29:54 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 577
+[08-Oct-2015 14:44:12 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 65
+[08-Oct-2015 14:44:12 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 69
+[08-Oct-2015 14:44:12 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 178
+[08-Oct-2015 14:44:12 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 179
+[26-Oct-2015 19:09:16 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 535
+[26-Oct-2015 19:09:16 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 535
+[26-Oct-2015 19:09:16 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 537
+[26-Oct-2015 19:09:16 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 542
+[26-Oct-2015 19:09:16 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 542
+[26-Oct-2015 19:09:16 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 545
+[26-Oct-2015 19:09:16 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 563
+[26-Oct-2015 19:09:16 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 577
+[26-Oct-2015 19:09:43 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 535
+[26-Oct-2015 19:09:43 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 535
+[26-Oct-2015 19:09:43 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 537
+[26-Oct-2015 19:09:43 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 542
+[26-Oct-2015 19:09:43 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 542
+[26-Oct-2015 19:09:43 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 545
+[26-Oct-2015 19:09:43 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 563
+[26-Oct-2015 19:09:43 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/taller.php on line 577
+[27-Oct-2015 19:56:19 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 65
+[27-Oct-2015 19:56:19 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 69
+[27-Oct-2015 19:56:19 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 178
+[27-Oct-2015 19:56:19 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 179
+[27-Oct-2015 19:57:32 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 65
+[27-Oct-2015 19:57:32 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 69
+[27-Oct-2015 19:57:32 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 178
+[27-Oct-2015 19:57:32 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 179
+[29-Oct-2015 15:41:30 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 65
+[29-Oct-2015 15:41:30 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 69
+[29-Oct-2015 15:41:30 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 178
+[29-Oct-2015 15:41:30 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 179
+[02-Nov-2015 17:46:02 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 65
+[02-Nov-2015 17:46:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 69
+[02-Nov-2015 17:46:02 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 178
+[02-Nov-2015 17:46:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 179
+[02-Nov-2015 17:46:14 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 65
+[02-Nov-2015 17:46:14 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 69
+[02-Nov-2015 17:46:14 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 178
+[02-Nov-2015 17:46:14 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/reporte_taller.php on line 179
+[27-Nov-2015 15:33:23 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/reporte_taller.php on line 65
+[27-Nov-2015 15:33:23 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/reporte_taller.php on line 69
+[27-Nov-2015 15:33:23 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/reporte_taller.php on line 178
+[27-Nov-2015 15:33:23 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/reporte_taller.php on line 179
+[30-Nov-2015 13:11:49 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/reporte_taller.php on line 65
+[30-Nov-2015 13:11:49 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/reporte_taller.php on line 69
+[30-Nov-2015 13:11:49 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/reporte_taller.php on line 178
+[30-Nov-2015 13:11:49 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/reporte_taller.php on line 179
+[02-Dec-2015 00:31:27 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[02-Dec-2015 00:31:27 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[02-Dec-2015 00:31:27 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 537
+[02-Dec-2015 00:31:27 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[02-Dec-2015 00:31:27 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[02-Dec-2015 00:31:27 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 545
+[02-Dec-2015 00:31:27 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 563
+[02-Dec-2015 00:31:27 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 577
+[03-Dec-2015 12:40:35 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[03-Dec-2015 12:40:35 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[03-Dec-2015 12:40:35 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 537
+[03-Dec-2015 12:40:35 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[03-Dec-2015 12:40:35 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[03-Dec-2015 12:40:35 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 545
+[03-Dec-2015 12:40:35 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 563
+[03-Dec-2015 12:40:35 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 577
+[06-Oct-2016 16:52:23 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[06-Oct-2016 16:52:23 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[06-Oct-2016 16:52:23 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[06-Oct-2016 16:52:23 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 537
+[06-Oct-2016 16:52:23 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[06-Oct-2016 16:52:23 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[06-Oct-2016 16:52:23 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[06-Oct-2016 16:52:23 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 545
+[06-Oct-2016 16:52:23 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 563
+[06-Oct-2016 16:52:23 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 577
+[08-Oct-2016 23:20:09 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[08-Oct-2016 23:20:09 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[08-Oct-2016 23:20:09 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[08-Oct-2016 23:20:09 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 537
+[08-Oct-2016 23:20:09 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[08-Oct-2016 23:20:09 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[08-Oct-2016 23:20:09 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[08-Oct-2016 23:20:09 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 545
+[08-Oct-2016 23:20:09 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 563
+[08-Oct-2016 23:20:09 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 577
+[16-Oct-2016 03:18:46 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[16-Oct-2016 03:18:46 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[16-Oct-2016 03:18:46 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 535
+[16-Oct-2016 03:18:46 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 537
+[16-Oct-2016 03:18:46 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[16-Oct-2016 03:18:46 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'cozcyt'@'localhost' (using password: NO) in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[16-Oct-2016 03:18:46 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 542
+[16-Oct-2016 03:18:46 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 545
+[16-Oct-2016 03:18:46 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 563
+[16-Oct-2016 03:18:46 America/New_York] PHP Warning:  mysql_free_result() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/fnsl/p_admin_cz/taller.php on line 577

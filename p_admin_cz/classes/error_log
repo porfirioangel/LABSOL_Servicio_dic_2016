@@ -1,0 +1,7 @@
+[05-Oct-2015 22:05:37 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/classes/es.php on line 39
+[05-Oct-2015 22:06:10 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/classes/es.php on line 39
+[05-Oct-2015 22:06:20 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/classes/es.php on line 39
+[05-Oct-2015 22:11:52 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/classes/es.php on line 39
+[05-Oct-2015 22:12:20 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/classes/es.php on line 39
+[05-Oct-2015 22:12:53 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/classes/es.php on line 39
+[05-Oct-2015 22:14:04 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cozcyt/public_html/labsol/p_admin_cz/classes/es.php on line 39

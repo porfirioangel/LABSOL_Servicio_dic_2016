@@ -1,0 +1,29 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+#cabecera
+{
+	/*border: 2px solid red;*/
+	height: 50px;
+}
+
+#menu
+{
+	/*border: 2px solid yellow;*/
+	height: 500px;
+}
+
+#contenido
+{
+	/*border: 2px solid blue;*/
+	height: 500px;
+}
+
+#pie
+{
+	/*border: 2px solid black;*/
+	height: 50px;
+}
