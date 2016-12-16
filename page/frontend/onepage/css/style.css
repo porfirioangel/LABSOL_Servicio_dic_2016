@@ -12,6 +12,15 @@
     width: auto;
 }
 
+/* Estilo para homologar los tamaños de las imágenes de la sección de aliados,
+ que al igual que con la sección de eventos, lo que se hace es que las imágenes
+ tengan el mismo alto.*/
+.portfolio-block img {
+    height: 90px;
+    width: auto;
+    margin: auto auto 10px;
+}
+
 /* General body settings */
 body {
     color: #5f6f7e;
