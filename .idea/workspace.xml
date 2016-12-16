@@ -43,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/page/frontend/onepage/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="560">
-              <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -242,7 +242,7 @@
       <workItem from="1481737643828" duration="1863000" />
       <workItem from="1481740294032" duration="1101000" />
       <workItem from="1481867454124" duration="3963000" />
-      <workItem from="1481903930196" duration="12240000" />
+      <workItem from="1481903930196" duration="12309000" />
     </task>
     <task id="LOCAL-00001" summary="Actualización de logos y datos de contacto">
       <created>1481870576777</created>
@@ -279,11 +279,18 @@
       <option name="project" value="LOCAL" />
       <updated>1481926197135</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Se homologaron tamaños de las imágenes de la sección de aliados">
+      <created>1481926558142</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1481926558142</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19167000" />
+    <option name="totallyTimeSpent" value="19236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1050" extended-state="0" />
@@ -325,7 +332,8 @@
     <MESSAGE value="Ya funciona mi implementación del slider" />
     <MESSAGE value="Se incorporó el blog al portal" />
     <MESSAGE value="Se homologaron tamaños de las imágenes de la sección de eventos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se homologaron tamaños de las imágenes de la sección de eventos" />
+    <MESSAGE value="Se homologaron tamaños de las imágenes de la sección de aliados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se homologaron tamaños de las imágenes de la sección de aliados" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -719,7 +727,7 @@
     <entry file="file://$PROJECT_DIR$/page/frontend/onepage/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
-          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding />
         </state>
       </provider>
