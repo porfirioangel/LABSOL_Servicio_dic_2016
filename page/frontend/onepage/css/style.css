@@ -1,7 +1,6 @@
 .contenedor-logos {
     background-color: #fff;
     padding-bottom: 10px;
-!important;
 }
 
 /* General body settings */
@@ -10,6 +9,8 @@ body {
     direction: ltr;
     font: 300 14px/1.4 "Open Sans", Arial, sans-serif;
     background: #fff;
+    overflow-x: hidden;
+    margin-top: 100px!important;
 }
 
 /* h1-h6 */
