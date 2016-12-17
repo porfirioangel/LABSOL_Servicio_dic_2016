@@ -2,8 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ea3fd07-5d0d-4fbd-9706-93a54ab28762" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/eventos/flisol.png" afterPath="$PROJECT_DIR$/assets/img/eventos/flisol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/eventos/campusparty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/eventos/fisl.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/eventos/fisl17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/eventos/fnsl2016.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/eventos/fsl2016.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/eventos/latinoware2016.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog/admin/templates/easy4/css/img/favicon_old.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/eventos/fslvallarta2016.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/files_gesol/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/controllers/DispositivoController.php" afterPath="$PROJECT_DIR$/files_gesol/app/controllers/DispositivoController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/controllers/InventarioController.php" afterPath="$PROJECT_DIR$/files_gesol/app/controllers/InventarioController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/controllers/PrestamoController.php" afterPath="$PROJECT_DIR$/files_gesol/app/controllers/PrestamoController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/database/migrations/2016_07_18_231108_crear_dispositivos.php" afterPath="$PROJECT_DIR$/files_gesol/app/database/migrations/2016_07_18_231108_crear_dispositivos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/database/migrations/2016_07_19_044123_crear_inventarios.php" afterPath="$PROJECT_DIR$/files_gesol/app/database/migrations/2016_07_19_044123_crear_inventarios.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/database/migrations/2016_07_19_232701_create_status_prestamo_table.php" afterPath="$PROJECT_DIR$/files_gesol/app/database/migrations/2016_07_19_232701_create_status_prestamo_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/database/migrations/2016_07_19_235119_create_prestamos.php" afterPath="$PROJECT_DIR$/files_gesol/app/database/migrations/2016_07_19_235119_create_prestamos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/models/Dispositivo.php" afterPath="$PROJECT_DIR$/files_gesol/app/models/Dispositivo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/models/Inventario.php" afterPath="$PROJECT_DIR$/files_gesol/app/models/Inventario.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/models/Prestamo.php" afterPath="$PROJECT_DIR$/files_gesol/app/models/Prestamo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/models/StatusPrestamo.php" afterPath="$PROJECT_DIR$/files_gesol/app/models/StatusPrestamo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/views/inventarios/administrarInventarios.blade.php" afterPath="$PROJECT_DIR$/files_gesol/app/views/inventarios/administrarInventarios.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/views/inventarios/editarInventario.blade.php" afterPath="$PROJECT_DIR$/files_gesol/app/views/inventarios/editarInventario.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/views/inventarios/nuevoInventario.blade.php" afterPath="$PROJECT_DIR$/files_gesol/app/views/inventarios/nuevoInventario.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/views/inventarios/verInventario.blade.php" afterPath="$PROJECT_DIR$/files_gesol/app/views/inventarios/verInventario.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/views/prestamos/administrarSolicitudes.blade.php" afterPath="$PROJECT_DIR$/files_gesol/app/views/prestamos/administrarSolicitudes.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/views/prestamos/detallePrestamo.blade.php" afterPath="$PROJECT_DIR$/files_gesol/app/views/prestamos/detallePrestamo.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/views/prestamos/misSolicitudes.blade.php" afterPath="$PROJECT_DIR$/files_gesol/app/views/prestamos/misSolicitudes.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/app/views/prestamos/nuevaSolicitud.blade.php" afterPath="$PROJECT_DIR$/files_gesol/app/views/prestamos/nuevaSolicitud.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/artisan" afterPath="$PROJECT_DIR$/files_gesol/artisan" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/composer.json" afterPath="$PROJECT_DIR$/files_gesol/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/composer.lock" afterPath="$PROJECT_DIR$/files_gesol/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/phpinfo.php" afterPath="$PROJECT_DIR$/files_gesol/phpinfo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/phpunit.xml" afterPath="$PROJECT_DIR$/files_gesol/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/readme.md" afterPath="$PROJECT_DIR$/files_gesol/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/files_gesol/server.php" afterPath="$PROJECT_DIR$/files_gesol/server.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,11 +53,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="214" column="35" lean-forward="false" selection-start-line="214" selection-start-column="35" selection-end-line="214" selection-end-column="35" />
+            <state relative-caret-position="252">
+              <caret line="130" column="5" lean-forward="true" selection-start-line="130" selection-start-column="5" selection-end-line="134" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -31,6 +65,16 @@
                 <element signature="n#img#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#1;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,8 +110,8 @@
       <find>img</find>
       <find>eventos</find>
       <find>team</find>
-      <find>aliad</find>
       <find>facts</find>
+      <find>aliad</find>
     </findStrings>
     <replaceStrings>
       <replace>href=&quot;</replace>
@@ -104,11 +148,11 @@
         <option value="$PROJECT_DIR$/porfirio/js/my_slider.js" />
         <option value="$PROJECT_DIR$/porfirio/css/my_slider.css" />
         <option value="$PROJECT_DIR$/blog/languages/es_ES.bit" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/blog/themes/echo/css/style.css" />
         <option value="$PROJECT_DIR$/blog/themes/echo/templates/default.bit" />
         <option value="$PROJECT_DIR$/page/frontend/onepage/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -147,60 +191,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="labsol" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="labsol" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="labsol" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="labsol" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="labsol" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="labsol" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="labsol" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="eventos" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -299,7 +289,7 @@
       <workItem from="1481737643828" duration="1863000" />
       <workItem from="1481740294032" duration="1101000" />
       <workItem from="1481867454124" duration="3963000" />
-      <workItem from="1481903930196" duration="14287000" />
+      <workItem from="1481903930196" duration="17745000" />
     </task>
     <task id="LOCAL-00001" summary="Actualización de logos y datos de contacto">
       <created>1481870576777</created>
@@ -350,11 +340,25 @@
       <option name="project" value="LOCAL" />
       <updated>1481926636742</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Integración de más eventos en el área de eventos">
+      <created>1481928630892</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1481928630892</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Último commit antes de aclarar dudas con haro sobre la parte de GESOL">
+      <created>1481930818249</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1481930818249</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21214000" />
+    <option name="totallyTimeSpent" value="24672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1050" extended-state="0" />
@@ -362,7 +366,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -398,7 +402,9 @@
     <MESSAGE value="Se homologaron tamaños de las imágenes de la sección de eventos" />
     <MESSAGE value="Se homologaron tamaños de las imágenes de la sección de aliados" />
     <MESSAGE value="Modificación del margen de las imágenes de la sección aliados" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modificación del margen de las imágenes de la sección aliados" />
+    <MESSAGE value="Integración de más eventos en el área de eventos" />
+    <MESSAGE value="Último commit antes de aclarar dudas con haro sobre la parte de GESOL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Último commit antes de aclarar dudas con haro sobre la parte de GESOL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -727,14 +733,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/themes/echo/views/blog/includes/post_head.bit">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -787,8 +785,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="214" column="35" lean-forward="false" selection-start-line="214" selection-start-column="35" selection-end-line="214" selection-end-column="35" />
+        <state relative-caret-position="252">
+          <caret line="130" column="5" lean-forward="true" selection-start-line="130" selection-start-column="5" selection-end-line="134" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -796,6 +794,14 @@
             <element signature="n#img#0;n#div#1;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
