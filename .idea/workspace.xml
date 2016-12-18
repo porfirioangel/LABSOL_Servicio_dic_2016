@@ -1,10 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ea3fd07-5d0d-4fbd-9706-93a54ab28762" name="Default" comment="">
+    <list default="true" id="5ea3fd07-5d0d-4fbd-9706-93a54ab28762" name="Default" comment="Se removieron las librerías y código">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/frontend/onepage/scripts/revo-ini.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/css/extralayers.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/css/navstylechange.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/css/noneed.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/3dbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/3dlayer_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/3dlayer_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/3dlayer_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/3dlayer_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/3dlayer_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/3dlayer_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/apple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/bg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/boat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/citybg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/clock2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/cloud1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/cloud2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/cloud3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/cloud4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/coconuts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/cycle1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/darkblurbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/doublearrow2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/dummy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/forest1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/fullslide1-320x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/fullslide1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/fullslide2-320x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/fullslide2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/fullslide6-320x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/fullslide6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/fullslide7-320x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/fullslide7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/fullslide8-320x200.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/fullslide8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/glare.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/graph.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/greenbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/greyline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/guy1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/guy2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/guy3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/guy4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/guy5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/hand1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/hill1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/hill2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/hill3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/hill4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/homeslider_thumb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/homeslider_thumb2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/homeslider_thumb3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/homeslider_thumb4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/homeslider_thumb5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/homeslider_thumb6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/huge.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/icon_photo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/imac1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/images/transparent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/ipad2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/ipad_dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/island.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/kenburns1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/kenburns2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/kenburns3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/kenburns4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/kenburns5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/laptopmockup_sliderdy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/largegreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/lupe_imac.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/lupe_macbook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/macbook2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/newslide2014_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/newwave1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/newwave2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/newwave32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/newwave4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/palm1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/palm2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/parallax_thumb1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/parallax_thumb2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/parallax_thumb3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/parallax_thumb4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/plate1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/plate2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/prebg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/pulse1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/redbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/redbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/redbg_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/seabg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/slidebg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/slidebg1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/slidebg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/sun.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/trans_tile2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/transparent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/tree.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/video_forest.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/videobg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/videoshadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/woman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/images/woman1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/arrow_large_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/arrow_large_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/arrow_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/arrow_left2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/arrow_right2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/arrowleft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/arrowright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/arrows.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/black50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/boxed_bgtile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/bullet_boxed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/bullets.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/bullets.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/bullets2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/coloredbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/grain.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/gridtile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/gridtile_3x3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/gridtile_3x3_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/gridtile_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/large_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/large_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/loader2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/navigdots.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/navigdots_bgtile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/shadow1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/shadow2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/shadow3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/small_arrows.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/small_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/small_left_boxed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/small_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/small_right_boxed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/timer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/timerdot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/transparent.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/assets/white50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/css/settings-ie8.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/css/settings.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/font/revicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/font/revicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/font/revicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/font/revicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/images/decor_inside.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/images/decor_inside_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/images/decor_testimonial.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/images/gradient/g30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/images/gradient/g40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/js/jquery.themepunch.revolution.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/page/global/plugins/slider-revolution-slider/rs-plugin/js/jquery.themepunch.tools.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/frontend/onepage/css/style.css" afterPath="$PROJECT_DIR$/page/frontend/onepage/css/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,9 +188,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="404" column="25" lean-forward="false" selection-start-line="404" selection-start-column="25" selection-end-line="404" selection-end-column="25" />
+            <state relative-caret-position="24612">
+              <caret line="939" column="17" lean-forward="true" selection-start-line="939" selection-start-column="17" selection-end-line="939" selection-end-column="17" />
               <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -32,6 +199,7 @@
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#12;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -41,7 +209,7 @@
         <entry file="file://$PROJECT_DIR$/page/frontend/onepage/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="274">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -149,6 +317,126 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onepage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="labsol" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onepage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -245,7 +533,7 @@
       <workItem from="1481867454124" duration="3963000" />
       <workItem from="1481903930196" duration="18363000" />
       <workItem from="1482042875359" duration="4385000" />
-      <workItem from="1482074655261" duration="4866000" />
+      <workItem from="1482074655261" duration="5695000" />
     </task>
     <task id="LOCAL-00001" summary="Actualización de logos y datos de contacto">
       <created>1481870576777</created>
@@ -352,17 +640,24 @@
       <option name="project" value="LOCAL" />
       <updated>1482078745770</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Se ligaron los botones de proyectos al GESOL">
+      <created>1482088394721</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1482088394721</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34541000" />
+    <option name="totallyTimeSpent" value="35370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1050" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973932" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3304904" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -407,7 +702,8 @@
     <MESSAGE value="Se agregó la información del documento de LABSOL a la página" />
     <MESSAGE value="Se agregó liga a GESOl en el menú principal" />
     <MESSAGE value="Colocar posts de twitter de @LABSOL_ y quitar GESOL del menú" />
-    <option name="LAST_COMMIT_MESSAGE" value="Colocar posts de twitter de @LABSOL_ y quitar GESOL del menú" />
+    <MESSAGE value="Se ligaron los botones de proyectos al GESOL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se ligaron los botones de proyectos al GESOL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -523,6 +819,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1540">
           <caret line="55" column="42" lean-forward="false" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -743,16 +1040,17 @@
     <entry file="file://$PROJECT_DIR$/page/frontend/onepage/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="404" column="25" lean-forward="false" selection-start-line="404" selection-start-column="25" selection-end-line="404" selection-end-column="25" />
+        <state relative-caret-position="24612">
+          <caret line="939" column="17" lean-forward="true" selection-start-line="939" selection-start-column="17" selection-end-line="939" selection-end-column="17" />
           <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -760,6 +1058,7 @@
             <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#9;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#12;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
