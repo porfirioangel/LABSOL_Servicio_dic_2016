@@ -8,6 +8,11 @@
     padding: 20px;
 }
 
+.twitter-bloque {
+    background-color: #f6f6f6;
+    padding: 20px;
+}
+
 .presentacion-labsol p, .presentacion-labsol li {
     text-align: justify !important;
 }
