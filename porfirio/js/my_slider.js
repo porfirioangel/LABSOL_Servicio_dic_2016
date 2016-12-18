@@ -15,7 +15,7 @@ $(document).ready(function () {
             var mod = (slideIndex + 1) % totalSlides;
             slideIndex = mod == 0 ? totalSlides : mod;
             $('.events').append("<li>" + slideIndex + "</li>");
-            if (slideIndex == 4) {
+            if (slideIndex == totalSlides) {
                 $('#slider_labsol').trigger('mouseenter');
             } else {
                 $('#slider_labsol').trigger('mouseleave');
@@ -25,5 +25,4 @@ $(document).ready(function () {
 
         }
     });
-    $('.events').append("<li>" + slideIndex + "</li>");
 });
