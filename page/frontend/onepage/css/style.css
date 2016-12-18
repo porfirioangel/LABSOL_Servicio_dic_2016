@@ -17,6 +17,15 @@
     text-align: justify !important;
 }
 
+.no-vinetas {
+    list-style: none;
+    padding-left: 0;
+}
+
+i.fa:hover {
+    background-color: #BD380D;
+}
+
 /* Este estilo es para las imágenes de la sección de eventos, para que todas
  las imágenes tengan la misma altura, y no se vea tan desproporcional su
  tamaño, aunque la solución ideal, es poner imágenes del mismo tamaño o al
